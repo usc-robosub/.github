@@ -7,4 +7,3 @@ In previous years, our submarines were:
 - Turtle
 - Seabee
 
-See our [Notion Documentation Page](https://www.notion.so/ced8f9c020e3471ba380e26c9c43d7da)
