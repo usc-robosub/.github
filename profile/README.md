@@ -1,4 +1,4 @@
-## Welcome to USCAUVTeam, AUV @ USC's GitHub Organization page!
+## Welcome to usc-robosub, AUV @ USC's GitHub Organization page!
 
 Our team is currently developing a brand new submarine called the Barracuda.
 
