@@ -2,6 +2,9 @@
 
 Our team is currently developing a brand new submarine called the Barracuda.
 
+### Quick Links
+- [Barracuda Software Development Fall 2024](https://github.com/orgs/usc-robosub/projects/1)
+
 ### Quick Links to Barracuda's Repositories:
 - [barracuda-camera](https://github.com/usc-robosub/barracuda-camera)
 - [barracuda-description](https://github.com/usc-robosub/barracuda-description)
