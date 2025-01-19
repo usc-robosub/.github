@@ -16,6 +16,7 @@ Our team is currently developing a brand new submarine called the Barracuda.
 - [barracuda-rp2040-thruster-client](https://github.com/usc-robosub/barracuda-rp2040-thruster-client)
 - [barracuda-simulation](https://github.com/usc-robosub/barracuda-simulation)
 - [barracuda-thruster-output-server](https://github.com/usc-robosub/barracuda-thruster-output-server)
+- [barracuda-vision](https://github.com/usc-robosub/barracuda-vision)
 - [barracuda_description](https://github.com/usc-robosub/barracuda_description)
 
 In previous years, our submarines were:
