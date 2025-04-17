@@ -9,6 +9,7 @@ Our team is currently developing a brand new submarine called the Barracuda.
 ### Quick Links to Barracuda's Repositories:
 - [barracuda-camera](https://github.com/usc-robosub/barracuda-camera)
 - [barracuda-control](https://github.com/usc-robosub/barracuda-control)
+- [barracuda-navigation](https://github.com/usc-robosub/barracuda-navigation)
 - [barracuda-description](https://github.com/usc-robosub/barracuda-description)
 - [barracuda-dhcp-server](https://github.com/usc-robosub/barracuda-dhcp-server)
 - [barracuda-dvl](https://github.com/usc-robosub/barracuda-dvl)
