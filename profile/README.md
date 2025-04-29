@@ -19,6 +19,7 @@ Our team is currently developing a brand new submarine called the Barracuda.
 - [barracuda-thruster-output-controller](https://github.com/usc-robosub/barracuda-thruster-output-controller)
 - [barracuda-teensy-thruster-target](https://github.com/usc-robosub/barracuda-teensy-thruster-target)
 - [barracuda-simulation](https://github.com/usc-robosub/barracuda-simulation)
+- [barracuda-sim-playground](https://github.com/usc-robosub/barracuda-sim-playground)
 - [barracuda-vision](https://github.com/usc-robosub/barracuda-vision)
 - [barracuda_description](https://github.com/usc-robosub/barracuda_description)
 
