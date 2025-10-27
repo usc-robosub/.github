@@ -18,7 +18,7 @@ Our team is currently developing a brand new submarine called the Barracuda.
 - [barracuda-localization](https://github.com/usc-robosub/barracuda-localization)
 - [barracuda-mapping](https://github.com/usc-robosub/barracuda-mapping)
 - [barracuda-thrusters](https://github.com/usc-robosub/barracuda-thrusters)
-- [barracuda-teensy-thruster-target](https://github.com/usc-robosub/barracuda-teensy-thruster-target)
+- [barracuda-teensy](https://github.com/usc-robosub/barracuda-teensy)
 - [barracuda-simulation](https://github.com/usc-robosub/barracuda-simulation)
 - [barracuda-sim-playground](https://github.com/usc-robosub/barracuda-sim-playground)
 - [barracuda-vision](https://github.com/usc-robosub/barracuda-vision)
