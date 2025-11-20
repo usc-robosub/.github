@@ -4,7 +4,7 @@ Our team is currently developing a brand new submarine called the Barracuda.
 
 ### Quick Links
 - [USC AUV Website](https://usc-robosub.github.io/)
-- [Barracuda Software Development Fall 2024](https://github.com/orgs/usc-robosub/projects/1)
+- [Barracuda Software Development Fall 2025](https://github.com/orgs/usc-robosub/projects/5)
 
 ### Quick Links to Barracuda's Repositories:
 - [barracuda-camera](https://github.com/usc-robosub/barracuda-camera)
@@ -28,4 +28,3 @@ In previous years, our submarines were:
 - Mantaray
 - Turtle
 - Seabee
-
