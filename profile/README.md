@@ -7,6 +7,7 @@ Our team is currently developing a brand new submarine called the Barracuda.
 - [Barracuda Software Development Fall 2025](https://github.com/orgs/usc-robosub/projects/5)
 
 ### Quick Links to Barracuda's Repositories:
+- [barracuda_jetson_ws](https://github.com/usc-robosub/barracuda_jetson_ws)
 - [barracuda-camera](https://github.com/usc-robosub/barracuda-camera)
 - [barracuda-control](https://github.com/usc-robosub/barracuda-control)
 - [barracuda-navigation](https://github.com/usc-robosub/barracuda-navigation)
