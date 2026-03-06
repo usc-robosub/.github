@@ -1,31 +1,43 @@
-## Welcome to usc-robosub, AUV @ USC's GitHub Organization page!
+## `usc-robosub` Home of Robosub SC!
 
-Our team is currently developing a brand new submarine called the Barracuda.
+Our team is currently working on Barracuda 2.0, the next iteration of our competition vehicle.
 
-### Quick Links
-- [USC AUV Website](https://usc-robosub.github.io/)
-- [Barracuda Software Development Fall 2025](https://github.com/orgs/usc-robosub/projects/5)
+### [Robosub SC Team Website](https://usc-robosub.github.io/)
 
-### Quick Links to Barracuda's Repositories:
+### Repositories:
+
+### Introduction Guides
+- [ros-tutorials](https://github.com/usc-robosub/ros-tutorials)
+
+### Topside Operations:
+- [barracuda-data-tools](https://github.com/usc-robosub/barracuda-data-tools)
+- [barracuda-simulation](https://github.com/usc-robosub/barracuda-simulation)
+- [barracuda-topside-ui](https://github.com/usc-robosub/barracuda-topside-ui)
+
+### ROS 2 Humble Workspace
 - [barracuda_jetson_ws](https://github.com/usc-robosub/barracuda_jetson_ws)
-- [barracuda-camera](https://github.com/usc-robosub/barracuda-camera)
+
+### ROS 2 Software Packages
 - [barracuda-control](https://github.com/usc-robosub/barracuda-control)
-- [barracuda-navigation](https://github.com/usc-robosub/barracuda-navigation)
-- [barracuda-description](https://github.com/usc-robosub/barracuda-description)
-- [barracuda-dhcp-server](https://github.com/usc-robosub/barracuda-dhcp-server)
-- [barracuda-dvl](https://github.com/usc-robosub/barracuda-dvl)
-- [barracuda-imu](https://github.com/usc-robosub/barracuda-imu)
-- [barracuda-jetson-services](https://github.com/usc-robosub/barracuda-jetson-services)
 - [barracuda-localization](https://github.com/usc-robosub/barracuda-localization)
 - [barracuda-mapping](https://github.com/usc-robosub/barracuda-mapping)
-- [barracuda-thrusters](https://github.com/usc-robosub/barracuda-thrusters)
-- [barracuda-teensy](https://github.com/usc-robosub/barracuda-teensy)
-- [barracuda-simulation](https://github.com/usc-robosub/barracuda-simulation)
-- [barracuda-sim-playground](https://github.com/usc-robosub/barracuda-sim-playground)
+- [barracuda-mission-planner](https://github.com/usc-robosub/barracuda-mission-planner)
+- [barracuda-navigation](https://github.com/usc-robosub/barracuda-navigation)
 - [barracuda-vision](https://github.com/usc-robosub/barracuda-vision)
-- [barracuda_description](https://github.com/usc-robosub/barracuda_description)
 
-In previous years, our submarines were:
+### ROS 2 Hardware Packages
+- [barracuda-camera](https://github.com/usc-robosub/barracuda-camera)
+- [barracuda-description](https://github.com/usc-robosub/barracuda-description)
+- [barracuda-dvl](https://github.com/usc-robosub/barracuda-dvl)
+- [barracuda-imu](https://github.com/usc-robosub/barracuda-imu)
+- [barracuda-ping-360-sonar](https://github.com/usc-robosub/barracuda-ping-360)
+- [barracuda-sonar](https://github.com/usc-robosub/barracuda-sonar)
+- [barracuda-thrusters](https://github.com/usc-robosub/barracuda-thrusters)
+
+### Microcontrollers
+- [barracuda-teensy](https://github.com/usc-robosub/barracuda-teensy)
+
+In previous years, our vehicles were:
 - Mantaray
 - Turtle
 - Seabee
