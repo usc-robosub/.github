@@ -15,7 +15,7 @@ Our team is currently working on Barracuda 2.0, the next iteration of our compet
 - [barracuda-topside-ui](https://github.com/usc-robosub/barracuda-topside-ui)
 
 ### ROS 2 Humble Workspace
-- [barracuda_jetson_ws](https://github.com/usc-robosub/barracuda_jetson_ws)
+- [barracuda_ws](https://github.com/usc-robosub/barracuda_ws)
 
 ### ROS 2 Software Packages
 - [barracuda-control](https://github.com/usc-robosub/barracuda-control)
