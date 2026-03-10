@@ -2,12 +2,12 @@
 
 Our team is currently working on Barracuda 2.0, the next iteration of our competition vehicle.
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4aa44db8-4179-49aa-aa3a-badb84778110" />
+
+
 ### [Robosub SC Team Website](https://usc-robosub.github.io/)
 
 ### Repositories:
-
-### Introduction Guides
-- [ros-tutorials](https://github.com/usc-robosub/ros-tutorials)
 
 ### Topside Operations:
 - [barracuda-data-tools](https://github.com/usc-robosub/barracuda-data-tools)
@@ -17,7 +17,7 @@ Our team is currently working on Barracuda 2.0, the next iteration of our compet
 ### ROS 2 Humble Workspace
 - [barracuda_ws](https://github.com/usc-robosub/barracuda_ws)
 
-### ROS 2 Software Packages
+### ROS 2 Autonomy Stack Packages
 - [barracuda-control](https://github.com/usc-robosub/barracuda-control)
 - [barracuda-localization](https://github.com/usc-robosub/barracuda-localization)
 - [barracuda-mapping](https://github.com/usc-robosub/barracuda-mapping)
@@ -25,7 +25,7 @@ Our team is currently working on Barracuda 2.0, the next iteration of our compet
 - [barracuda-navigation](https://github.com/usc-robosub/barracuda-navigation)
 - [barracuda-vision](https://github.com/usc-robosub/barracuda-vision)
 
-### ROS 2 Hardware Packages
+### ROS 2 Peripherals Interface & Drivers Packages
 - [barracuda-camera](https://github.com/usc-robosub/barracuda-camera)
 - [barracuda-description](https://github.com/usc-robosub/barracuda-description)
 - [barracuda-dvl](https://github.com/usc-robosub/barracuda-dvl)
@@ -36,6 +36,9 @@ Our team is currently working on Barracuda 2.0, the next iteration of our compet
 
 ### Microcontrollers
 - [barracuda-teensy](https://github.com/usc-robosub/barracuda-teensy)
+
+### Introduction Guides
+- [ros-tutorials](https://github.com/usc-robosub/ros-tutorials)
 
 In previous years, our vehicles were:
 - Mantaray
