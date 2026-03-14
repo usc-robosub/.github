@@ -1,6 +1,6 @@
 ## `usc-robosub` Home of Robosub SC!
 
-Our team is currently working on Barracuda 2.0, the next iteration of our competition vehicle.
+Our team is currently working on Barracuda 2.0, the next iteration of our vehicle for the [2026 Robosub Competition](https://robosub.org/programs/2026/).
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4aa44db8-4179-49aa-aa3a-badb84778110" />
 
