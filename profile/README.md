@@ -17,7 +17,7 @@ Our team is currently working on Barracuda 2.0, the next iteration of our compet
 ### ROS 2 Humble Workspace
 - [barracuda_ws](https://github.com/usc-robosub/barracuda_ws)
 
-### ROS 2 Autonomy Stack Packages
+### ROS 2 Packages: Autonomy Stack
 - [barracuda-control](https://github.com/usc-robosub/barracuda-control)
 - [barracuda-localization](https://github.com/usc-robosub/barracuda-localization)
 - [barracuda-mapping](https://github.com/usc-robosub/barracuda-mapping)
@@ -25,7 +25,7 @@ Our team is currently working on Barracuda 2.0, the next iteration of our compet
 - [barracuda-navigation](https://github.com/usc-robosub/barracuda-navigation)
 - [barracuda-vision](https://github.com/usc-robosub/barracuda-vision)
 
-### ROS 2 Peripherals Interface & Drivers Packages
+### ROS 2 Packages Peripheral Interfaces & Drivers 
 - [barracuda-camera](https://github.com/usc-robosub/barracuda-camera)
 - [barracuda-description](https://github.com/usc-robosub/barracuda-description)
 - [barracuda-dvl](https://github.com/usc-robosub/barracuda-dvl)
