@@ -32,7 +32,7 @@ Our team is currently working on Barracuda 2.0, the next iteration of our vehicl
 - [barracuda-imu](https://github.com/usc-robosub/barracuda-imu)
 - [barracuda-ping-360-sonar](https://github.com/usc-robosub/barracuda-ping-360)
 - [barracuda-sonar](https://github.com/usc-robosub/barracuda-sonar)
-- [barracuda-thrusters](https://github.com/usc-robosub/barracuda-thrusters)
+- [barracuda_thrusters](https://github.com/usc-robosub/barracuda_thrusters)
 
 ### Microcontrollers
 - [barracuda-teensy](https://github.com/usc-robosub/barracuda-teensy)
