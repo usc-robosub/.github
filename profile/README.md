@@ -28,9 +28,9 @@ Our team is currently working on Barracuda 2.0, the next iteration of our vehicl
 ### ROS 2 Packages Peripheral Interfaces & Drivers 
 - [barracuda-camera](https://github.com/usc-robosub/barracuda-camera)
 - [barracuda_description](https://github.com/usc-robosub/barracuda_description)
-- [barracuda-dvl](https://github.com/usc-robosub/barracuda-dvl)
+- [barracuda_dvl](https://github.com/usc-robosub/barracuda_dvl)
 - [barracuda-imu](https://github.com/usc-robosub/barracuda-imu)
-- [barracuda-ping-360-sonar](https://github.com/usc-robosub/barracuda-ping-360)
+- [barracuda_ping_360](https://github.com/usc-robosub/barracuda_ping_360)
 - [barracuda-sonar](https://github.com/usc-robosub/barracuda-sonar)
 - [barracuda_thrusters](https://github.com/usc-robosub/barracuda_thrusters)
 
