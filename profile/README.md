@@ -29,9 +29,9 @@ Our team is currently working on Barracuda 2.0, the next iteration of our vehicl
 - [barracuda-camera](https://github.com/usc-robosub/barracuda-camera)
 - [barracuda_description](https://github.com/usc-robosub/barracuda_description)
 - [barracuda_dvl](https://github.com/usc-robosub/barracuda_dvl)
-- [barracuda-imu](https://github.com/usc-robosub/barracuda-imu)
+- [barracuda_imu](https://github.com/usc-robosub/barracuda_imu)
 - [barracuda_ping_360](https://github.com/usc-robosub/barracuda_ping_360)
-- [barracuda-sonar](https://github.com/usc-robosub/barracuda-sonar)
+- [barracuda_altimeter_sonar](https://github.com/usc-robosub/barracuda_altimeter_sonar)
 - [barracuda_thrusters](https://github.com/usc-robosub/barracuda_thrusters)
 
 ### Microcontrollers
