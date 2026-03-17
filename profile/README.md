@@ -18,7 +18,7 @@ Our team is currently working on Barracuda 2.0, the next iteration of our vehicl
 - [barracuda_ws](https://github.com/usc-robosub/barracuda_ws)
 
 ### ROS 2 Packages: Autonomy Stack
-- [barracuda-control](https://github.com/usc-robosub/barracuda-control)
+- [barracuda_control](https://github.com/usc-robosub/barracuda_control)
 - [barracuda-localization](https://github.com/usc-robosub/barracuda-localization)
 - [barracuda-mapping](https://github.com/usc-robosub/barracuda-mapping)
 - [barracuda-mission-planner](https://github.com/usc-robosub/barracuda-mission-planner)
@@ -27,7 +27,7 @@ Our team is currently working on Barracuda 2.0, the next iteration of our vehicl
 
 ### ROS 2 Packages Peripheral Interfaces & Drivers 
 - [barracuda-camera](https://github.com/usc-robosub/barracuda-camera)
-- [barracuda-description](https://github.com/usc-robosub/barracuda-description)
+- [barracuda_description](https://github.com/usc-robosub/barracuda_description)
 - [barracuda-dvl](https://github.com/usc-robosub/barracuda-dvl)
 - [barracuda-imu](https://github.com/usc-robosub/barracuda-imu)
 - [barracuda-ping-360-sonar](https://github.com/usc-robosub/barracuda-ping-360)
